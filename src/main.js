@@ -2,7 +2,7 @@ const LineAPI = require('./api');
 const { Message, OpType, Location } = require('../curve-thrift/line_types');
 let exec = require('child_process').exec;
 
-const myBot = ['mid_kamu'];
+const myBot = ['5747bf97a463a33200c0b58c9d9ba5ee'];
 // -tips biar botnya gk error mulu-
 // ubah authtoken + certificate di src/bot.js
 
